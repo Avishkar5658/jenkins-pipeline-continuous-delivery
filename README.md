@@ -38,7 +38,7 @@
 
 ---
 
-## 🤔 The Problem (in plain English)
+## 🤔 The Problem
 
 Imagine a developer builds a web app on their laptop. It works perfectly. Then they hand it to a teammate or put it on a server, and suddenly:
 
