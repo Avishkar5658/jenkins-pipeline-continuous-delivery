@@ -1,0 +1,47 @@
+[
+  {
+    "model": "api.note",
+    "pk": 1,
+    "fields": {
+      "body": "Note #1\n\n- One\n- Two\n- Three",
+      "updated": "2026-10-01T10:00:00Z",
+      "created": "2026-10-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "api.note",
+    "pk": 4,
+    "fields": {
+      "body": "Note #2\n\nThis is a new note XD",
+      "updated": "2026-10-02T10:00:00Z",
+      "created": "2026-10-02T10:00:00Z"
+    }
+  },
+  {
+    "model": "api.note",
+    "pk": 7,
+    "fields": {
+      "body": "Note #3\n\nThis a new note now REACT is integrated with Django!",
+      "updated": "2026-10-03T10:00:00Z",
+      "created": "2026-10-03T10:00:00Z"
+    }
+  },
+  {
+    "model": "api.note",
+    "pk": 8,
+    "fields": {
+      "body": "Note #4\n\nLooks like everything is working so far\nThis is a test update\nok everything works!",
+      "updated": "2026-10-04T10:00:00Z",
+      "created": "2026-10-04T10:00:00Z"
+    }
+  },
+  {
+    "model": "api.note",
+    "pk": 11,
+    "fields": {
+      "body": "Note #5\n\nDoes the time not update or something?\ntests",
+      "updated": "2026-10-05T10:00:00Z",
+      "created": "2026-10-05T10:00:00Z"
+    }
+  }
+]
